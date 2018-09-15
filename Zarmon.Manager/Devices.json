@@ -1,0 +1,19 @@
+﻿{
+  "Rubidium": {
+    "Zone": "A",
+    "RubidiumSettings": {
+      "OverVoltageProtection": 12,
+      "OverCurrentProtection": 1,
+      "ResetOnConnect": false,
+      "ActivateMonitorMode": true,
+      "ActivateControlMode": true
+    }
+  },
+  "DeviceSettings": {
+    "OverVoltageProtection": 12,
+    "OverCurrentProtection": 1,
+    "ResetOnConnect": false,
+    "ActivateMonitorMode": true,
+    "ActivateControlMode": true
+  }
+}
